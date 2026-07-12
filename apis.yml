@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://rapidapi.com/obryan-software-obryan-software-default/api/compare-flight-prices/
 common:
+  - type: DomainSecurity
+    url: security/compare-flight-prices-domain-security.yml
   - type: Website
     url: https://rapidapi.com/obryan-software-obryan-software-default/api/compare-flight-prices/
   - type: PublicAPIsListing
